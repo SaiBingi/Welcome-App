@@ -1,0 +1,9 @@
+// Published URL  ==>  https://saiwelcomewebap.ccbp.tech/
+
+import Welcome from './components/Welcome'
+
+import './App.css'
+
+const App = () => <Welcome />
+
+export default App
